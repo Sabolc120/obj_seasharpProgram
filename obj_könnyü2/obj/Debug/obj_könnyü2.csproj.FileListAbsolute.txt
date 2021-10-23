@@ -1,0 +1,8 @@
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\bin\Debug\obj_könnyü2.exe.config
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\bin\Debug\obj_könnyü2.exe
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\bin\Debug\obj_könnyü2.pdb
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\obj\Debug\obj_könnyü2.csproj.AssemblyReference.cache
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\obj\Debug\obj_könnyü2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\obj\Debug\obj_könnyü2.csproj.CoreCompileInputs.cache
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\obj\Debug\obj_könnyü2.exe
+C:\Users\sabolc\source\repos\obj_könnyü2\obj_könnyü2\obj\Debug\obj_könnyü2.pdb
